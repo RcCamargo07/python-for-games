@@ -1,31 +1,31 @@
-# 🐍 Python for Games
+# 🐍 Python para Games
 
-Practical introductory material on programming using Python and concepts related to game development.
+Material prático de introdução à programação utilizando Python e conceitos relacionados ao desenvolvimento de jogos.
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-This project was created to demonstrate how fundamental programming concepts can be learned through examples and applications related to game development.
+Este projeto foi criado para demonstrar como conceitos fundamentais de programação podem ser aprendidos através de exemplos e aplicações relacionadas ao desenvolvimento de jogos.
 
-## 📚 Contents
+## 📚 Conteúdos
 
-- Variables
-- Data types
-- Input and output
-- Operators
-- Conditionals
-- Loops
-- Functions
-- Lists
-- Programming logic
+- Variáveis
+- Tipos de dados
+- Entrada e saída
+- Operadores
+- Condicionais
+- Estruturas de repetição
+- Funções
+- Listas
+- Lógica de programação
 
-## 🎮 Final Project
+## 🎮 Projeto final
 
-At the end of the course, you’ll develop a small game in Python using the concepts presented throughout the modules.
+Ao final do conteúdo será desenvolvido um pequeno jogo em Python, utilizando os conceitos apresentados ao longo dos módulos.
 
-## 👨‍🏫 Target Audience
+## 👨‍🏫 Público
 
-This material is primarily designed for people who are just starting to learn programming.
+Material pensado principalmente para pessoas que estão começando a estudar programação.
 
-## 🛠️ Technology
+## 🛠️ Tecnologia
 
 - Python 3
